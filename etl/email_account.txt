@@ -1,0 +1,4 @@
+{'server_name':'outlook.office365.com',
+                'port':'587',
+                'username':'your_email@something.com',
+                'password':'your_password'}
