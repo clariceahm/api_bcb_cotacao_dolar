@@ -27,7 +27,7 @@ ontem = ontem.strftime('%m-%d-%Y')
 ontem = "'" + ontem + "'"
 
 ## Name of database table with dollar rate
-table_name = 'Cotacao_Dolar_BCB_TESTE'
+table_name = 'Cotacao_Dolar_BCB'
 
 
 ##------------
