@@ -36,6 +36,9 @@ All these steps are orchestrated by running the main.py script. However, each st
 To run the project locally, follow the instructions below:
 
 Clone the repository: git https://github.com/clariceahm/api_bcb_cotacao_dolar
+
 Navigate to the project directory: cd yourrepository
+
 Install the dependencies: pip install -r requirements.txt
+
 After installation, you can run the included scripts to perform analyses. The results will be saved in output files or displayed in charts, depending on the script used.
